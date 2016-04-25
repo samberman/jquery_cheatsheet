@@ -1,0 +1,47 @@
+h1 {
+	text-align: center;
+}
+
+nav {
+	display: block;
+	width: 15%;
+}
+
+#del {
+	display: inline-block;
+	width: 25%;
+	position: relative;
+	bottom: 400px;
+}
+
+#main {
+	float: left;
+}
+
+#column2 {
+	display: inline-block;
+	width: 33%;
+	position: relative;
+	bottom: 50px;
+}
+
+#steady {
+	display: inline-block;
+	position: relative;
+	bottom: 50px;
+	width: 25%;
+}
+
+#stack1 {
+	padding: 5px;
+}
+
+#stack2 {
+	padding: 5px;
+}
+
+/*.column {
+	float: left;
+	width: 30%
+
+}*/
